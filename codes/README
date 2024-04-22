@@ -1,1 +1,6 @@
+This folder contains the codes for the analysis:
 
+1. IPD_negbin_model_final.R: This file stores the negative binomial time series model used to estimate the IPD case numbers from February 2020 to December 2023
+2. IPD_analysis_serotype_dist.R: This file provides the codes for chi-square tests used for testing the serotype distribution
+3. IPD_analysis_serotype_fig.R: This file includes the codes for generating Figure 1
+4. IPD_Ljung_Box.R: This file provides the codes for the Ljung-Box test in testing the seasonal patterns
