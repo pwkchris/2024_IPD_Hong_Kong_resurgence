@@ -1,0 +1,4 @@
+This folder contains the data used for analysis:
+
+1. case_count_all_years.xlsx: this stores the number and percentage of the most common serotypes (3 , 19A, 14, 23A, 15A and others) per year 
+2. combined_table_PowerBI_202401.xlsx: this file contains the IPD case number by serotype and age group per month
