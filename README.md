@@ -1,1 +1,1 @@
-# 2024_IPD_Hong_Kong_resurgence
+Data and codes for the manuscript "Increased Incidence of Invasive Pneumococcal Disease in Hong Kong in 2023". 
